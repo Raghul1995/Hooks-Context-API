@@ -5,6 +5,7 @@
 - React
 - Hooks
 - Context API
+- Dynamic data
 - JSX
 - JavaScript
 - CSS
